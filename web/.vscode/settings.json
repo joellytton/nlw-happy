@@ -1,5 +1,11 @@
 {
     "cSpell.ignoreWords": [
-        "esnext"
+        "content",
+        "esnext",
+        "latlng",
+        "leaflet",
+        "leaflet popup content wrapper",
+        "popup",
+        "wrapper"
     ]
 }
